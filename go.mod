@@ -1,5 +1,3 @@
 module learn-go
 
-go 1.16
-
-require github.com/gin-gonic/gin v1.7.7
+go 1.17
